@@ -1,11 +1,12 @@
-<h1 align="center">Hi there 👋, I'm Khushdeep Kakria</h1>
+```markdown
+<h1 align="center">Hi 👋, I'm Khushdeep Kakria</h1>
 
 <h3 align="center">
-Cloud & DevOps Enthusiast | AWS | Linux | Docker | Git & GitHub | CI/CD Learner
+Aspiring DevOps Engineer | AWS | Linux | Docker | Git & GitHub | Python
 </h3>
 
 <p align="center">
-🚀 Aspiring Cloud & DevOps Engineer
+Passionate about Cloud Infrastructure, Automation, and DevOps 🚀
 </p>
 
 ---
@@ -14,28 +15,28 @@ Cloud & DevOps Enthusiast | AWS | Linux | Docker | Git & GitHub | CI/CD Learner
 
 🎓 Bachelor of Engineering (Computer Science & Engineering)
 
-☁️ Passionate about Cloud Computing, DevOps, Automation, and Infrastructure Management
+☁️ Aspiring DevOps Engineer with a strong interest in Cloud Computing and Infrastructure Automation.
 
-🚀 Currently building real-world projects using AWS and modern DevOps tools
+🐧 Comfortable working with Linux, Docker, Git & GitHub, and AWS fundamentals.
 
-📚 Continuously learning Linux, Docker, Kubernetes, CI/CD, Terraform, and Cloud Architecture
+🐍 Python is my primary programming language, which I use for scripting and automation.
 
-💡 Interested in designing scalable, secure, and automated cloud infrastructure
+📚 Currently learning CI/CD, Kubernetes, Jenkins, and Terraform to strengthen my DevOps skills.
+
+🚀 I enjoy building practical projects and continuously improving my cloud and automation knowledge.
 
 ---
 
 # 🚀 Core Skills
 
-- Cloud Computing (AWS)
+- AWS Cloud Fundamentals
 - Linux Administration
-- Docker Containerization
+- Docker
 - Git & GitHub
-- CI/CD Pipelines
-- Kubernetes (Learning)
-- Shell Scripting
-- Infrastructure Monitoring
+- Python
+- Shell Basics
 - Networking Fundamentals
-- Deployment Automation
+- Infrastructure Concepts
 - Problem Solving
 
 ---
@@ -45,78 +46,51 @@ Cloud & DevOps Enthusiast | AWS | Linux | Docker | Git & GitHub | CI/CD Learner
 ## ☁️ Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,bash,git,github" />
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,bash" />
 </p>
 
-## 💻 Programming
+## 🐍 Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript" />
-</p>
-
-## 🌐 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
-</p>
-
-## 🗄️ Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ## 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,github" />
+<img src="https://skillicons.dev/icons?i=vscode,postman" />
 </p>
 
 ---
 
-# 💼 Featured Projects
+# 💼 Projects
 
 ## 🗑️ Garbage Tracker (Full Stack)
 
-- Built a complete Garbage Collection Tracking System
-- Developed using HTML, CSS, JavaScript, Node.js, and MongoDB
-- Tracks garbage collection routes and schedules
+- Full-stack Garbage Collection Tracking System
+- Backend developed using Node.js and MongoDB
+- Route and garbage collection tracking
 - Admin dashboard for monitoring operations
-- Full-stack implementation with database integration
+- Database integration with real-time data management
 
 ---
 
-## 📘 Facebook Clone (Frontend)
+## 📘 Facebook Clone
 
 - Responsive Facebook UI Clone
-- Built using HTML, CSS, and JavaScript
-- Modern responsive design
-- Interactive interface
-- Frontend-only implementation
+- Developed using HTML, CSS, and JavaScript
+- Frontend implementation
+- Mobile-friendly design
 
 ---
 
-# 📜 Certifications & Learning
+# 📚 Currently Learning
 
-✅ AWS Cloud Computing
-
-✅ Linux Administration
-
-✅ Git & GitHub
-
-✅ Docker Fundamentals
-
-✅ CI/CD Concepts
-
----
-
-# 🔄 Currently Learning
-
+- CI/CD Pipelines
+- Jenkins
 - Kubernetes
 - Terraform
-- Jenkins
 - Advanced AWS Services
-- DevOps Best Practices
 
 ---
 
@@ -124,34 +98,32 @@ Cloud & DevOps Enthusiast | AWS | Linux | Docker | Git & GitHub | CI/CD Learner
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
 </p>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p>
 
 <a href="https://www.linkedin.com/in/khushdeep-kakria/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:2711kakriakhushdeep@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -162,20 +134,17 @@ Cloud & DevOps Enthusiast | AWS | Linux | Docker | Git & GitHub | CI/CD Learner
 
 ---
 
-# 🎯 Career Goal
+# 🎯 Career Objective
 
-To start my career as a Cloud & DevOps Engineer and contribute to building scalable, secure, and automated cloud infrastructure while continuously learning modern DevOps practices and cloud technologies.
-
----
-
-# 💡 Motto
-
-### 🚀 Automating Today, Scaling Tomorrow.
+To begin my career as a DevOps Engineer by applying cloud technologies, automation, and infrastructure management while continuously learning modern DevOps tools and best practices.
 
 ---
+
+### 🚀 "Learn • Automate • Deploy • Improve"
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=flat)
+![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
 
 </p>
+```
