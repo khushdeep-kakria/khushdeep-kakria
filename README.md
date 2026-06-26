@@ -16,13 +16,13 @@ Passionate about Cloud Infrastructure, Automation & DevOps 🚀
 
 ☁️ Passionate about Cloud Computing, DevOps, Automation, and Infrastructure Management.
 
-🐧 Skilled in Linux, Docker, Git & GitHub, and AWS fundamentals.
+🐧 Hands-on experience with Linux, Docker, Git & GitHub, and AWS fundamentals.
 
-🐍 Python is my primary programming language, which I use for scripting and automation.
+🐍 Python is my primary programming language for scripting and automation.
 
-📚 Currently learning CI/CD, Kubernetes, Jenkins, and Terraform.
+🚀 I enjoy building practical DevOps projects and continuously improving my cloud and automation skills.
 
-🚀 Always exploring modern DevOps practices and building hands-on cloud projects.
+📚 Currently expanding my DevOps knowledge through hands-on learning with Jenkins, Kubernetes, Terraform, Grafana, Prometheus, and Jira.
 
 ---
 
@@ -42,21 +42,21 @@ Passionate about Cloud Infrastructure, Automation & DevOps 🚀
 
 # 🛠️ Tech Stack
 
-## ☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=aws,linux,docker,git,github,bash" />
 </p>
 
-## 🐍 Programming
+### 🐍 Programming
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-## 🛠️ Tools
+### 🛠️ Tools
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,postman" />
 </p>
 
@@ -76,28 +76,44 @@ Passionate about Cloud Infrastructure, Automation & DevOps 🚀
 
 ## 📘 Facebook Clone (Frontend)
 
-- Developed a responsive Facebook UI Clone.
+- Developed a responsive Facebook Clone.
 - Built using HTML, CSS, and JavaScript.
-- Responsive and user-friendly interface.
+- Modern responsive UI.
 - Frontend-only implementation.
 
 ---
 
 # 📚 Currently Learning
 
-- CI/CD Pipelines
-- Jenkins
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=jenkins,kubernetes" />
+
+<img src="https://skillicons.dev/icons?i=terraform" />
+
+<img src="https://cdn.simpleicons.org/grafana/F46800" height="48"/>
+
+<img src="https://cdn.simpleicons.org/prometheus/E6522C" height="48"/>
+
+<img src="https://cdn.simpleicons.org/jira/0052CC" height="48"/>
+
+</p>
+
+- Jenkins (CI/CD)
 - Kubernetes
 - Terraform
-- Advanced AWS Services
+- Grafana
+- Prometheus
+- Jira
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -105,7 +121,15 @@ Passionate about Cloud Infrastructure, Automation & DevOps 🚀
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
 </p>
 
 ---
@@ -114,12 +138,12 @@ Passionate about Cloud Infrastructure, Automation & DevOps 🚀
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/khushdeep-kakria/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/khushdeep-kakria/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:2711kakriakhushdeep@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -132,7 +156,7 @@ Passionate about Cloud Infrastructure, Automation & DevOps 🚀
 
 # 🎯 Career Objective
 
-To begin my career as a DevOps Engineer by leveraging cloud technologies, automation, and infrastructure management while continuously learning modern DevOps tools and best practices.
+Aspiring DevOps Engineer seeking to build scalable, reliable, and automated cloud infrastructure while continuously learning modern DevOps practices and cloud technologies.
 
 ---
 
@@ -143,7 +167,5 @@ To begin my career as a DevOps Engineer by leveraging cloud technologies, automa
 ---
 
 <p align="center">
-
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
-
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
