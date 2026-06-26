@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Khushdeep Kakria</h1>
 
 <h3 align="center">
@@ -6,7 +5,7 @@ Aspiring DevOps Engineer | AWS | Linux | Docker | Git & GitHub | Python
 </h3>
 
 <p align="center">
-Passionate about Cloud Infrastructure, Automation, and DevOps 🚀
+Passionate about Cloud Infrastructure, Automation & DevOps 🚀
 </p>
 
 ---
@@ -15,15 +14,15 @@ Passionate about Cloud Infrastructure, Automation, and DevOps 🚀
 
 🎓 Bachelor of Engineering (Computer Science & Engineering)
 
-☁️ Aspiring DevOps Engineer with a strong interest in Cloud Computing and Infrastructure Automation.
+☁️ Passionate about Cloud Computing, DevOps, Automation, and Infrastructure Management.
 
-🐧 Comfortable working with Linux, Docker, Git & GitHub, and AWS fundamentals.
+🐧 Skilled in Linux, Docker, Git & GitHub, and AWS fundamentals.
 
 🐍 Python is my primary programming language, which I use for scripting and automation.
 
-📚 Currently learning CI/CD, Kubernetes, Jenkins, and Terraform to strengthen my DevOps skills.
+📚 Currently learning CI/CD, Kubernetes, Jenkins, and Terraform.
 
-🚀 I enjoy building practical projects and continuously improving my cloud and automation knowledge.
+🚀 Always exploring modern DevOps practices and building hands-on cloud projects.
 
 ---
 
@@ -34,7 +33,7 @@ Passionate about Cloud Infrastructure, Automation, and DevOps 🚀
 - Docker
 - Git & GitHub
 - Python
-- Shell Basics
+- Shell Scripting (Basics)
 - Networking Fundamentals
 - Infrastructure Concepts
 - Problem Solving
@@ -46,41 +45,41 @@ Passionate about Cloud Infrastructure, Automation, and DevOps 🚀
 ## ☁️ Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,bash" />
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,git,github,bash" />
 </p>
 
 ## 🐍 Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ## 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=vscode,postman" />
 </p>
 
 ---
 
-# 💼 Projects
+# 💼 Featured Projects
 
 ## 🗑️ Garbage Tracker (Full Stack)
 
-- Full-stack Garbage Collection Tracking System
-- Backend developed using Node.js and MongoDB
-- Route and garbage collection tracking
-- Admin dashboard for monitoring operations
-- Database integration with real-time data management
+- Developed a full-stack Garbage Collection Tracking System.
+- Built using HTML, CSS, JavaScript, Node.js, and MongoDB.
+- Tracks garbage collection routes and schedules.
+- Admin dashboard for monitoring operations.
+- Database integration for real-time data management.
 
 ---
 
-## 📘 Facebook Clone
+## 📘 Facebook Clone (Frontend)
 
-- Responsive Facebook UI Clone
-- Developed using HTML, CSS, and JavaScript
-- Frontend implementation
-- Mobile-friendly design
+- Developed a responsive Facebook UI Clone.
+- Built using HTML, CSS, and JavaScript.
+- Responsive and user-friendly interface.
+- Frontend-only implementation.
 
 ---
 
@@ -97,11 +96,8 @@ Passionate about Cloud Infrastructure, Automation, and DevOps 🚀
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -109,21 +105,21 @@ Passionate about Cloud Infrastructure, Automation, and DevOps 🚀
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
 </p>
 
 ---
 
 # 🌐 Connect With Me
 
-<p>
+<p align="left">
 
-<a href="https://www.linkedin.com/in/khushdeep-kakria/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/khushdeep-kakria/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:2711kakriakhushdeep@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
@@ -136,15 +132,18 @@ Passionate about Cloud Infrastructure, Automation, and DevOps 🚀
 
 # 🎯 Career Objective
 
-To begin my career as a DevOps Engineer by applying cloud technologies, automation, and infrastructure management while continuously learning modern DevOps tools and best practices.
+To begin my career as a DevOps Engineer by leveraging cloud technologies, automation, and infrastructure management while continuously learning modern DevOps tools and best practices.
 
 ---
 
-### 🚀 "Learn • Automate • Deploy • Improve"
+# 💡 Motto
+
+### 🚀 Learn • Automate • Deploy • Improve
+
+---
 
 <p align="center">
 
 ![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
 
 </p>
-```
